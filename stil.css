@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* Document */
+p {
+
+  color: violet;
+font-family: sans-serif;
+font-size: 20px;
+line-height: 30px;
+width: 600px;
+background-color: royalblue;
+padding: 30px;
+
+}
+
+h1 {
+font-family: fantasy;
+color: darkred;
+background-color: #00CC66;
+width: 800px;
+padding: 30px;
+
+}
+
+h2 {
+
+  font-family: serif;
+  color: lavender;
+  background-color: palevioletred;
+  width: 700px;
+  padding: 25px;
+}
+
+span { color: royalblue;}
+body {
+  background-image: url("slike/01.jpg");
+
+
+}
+
+a:link {
+  color: indianred;
+  background-color: lavender;
+  padding: 5px;
+  line-height: 25px;
+  border: 1px solid gray;
+}
+
+a:hover {
+  background-color: gray;
+}
+
+img {
+  height: 300px;
+
+
+
+}
+.drugapozadina {
+  background-image: url("slike/03.jpg");
+
+}
+
+.pozadina {
+  background-image: url("slike/02.jpg");
+}
